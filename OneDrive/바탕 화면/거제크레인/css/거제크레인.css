@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width = device-width, initial-scale = 1.0">
+        <meta http-equiv="X-UA-Compatible" content = "ie=edge">
+        <title> Keat </title>
+<style>
+.photo{}
+.photo{height: 250px; padding: 25px; box-sizing: border-box; background: #e0e0e0; text-align: center;}
+.photo>div{ width: 1180px; margin: 0 auto;}
+.photo>div>h1{float: left; margin: 45px 20px 0 20px; width: 100px; height: 100px; line-height: 100px; background: #adaaaa; color: #fff; text-align: center; border-radius: 20px; box-sizing: border-box; font-size: 20px; letter-spacing: 3px;}
+.photo ul{display: flex; width: 1000px;}
+.photo ul>li{display: inline-block; flex: 1; height: 200px; margin: 0 0 0 10px; background: url(crain.jpg) no-repeat;}
+
+</style>
+    </head>
+    
+    <body>
+        
+    </body>
+</html>

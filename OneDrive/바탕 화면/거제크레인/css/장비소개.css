@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width = device-width, initial-scale = 1.0">
+        <meta http-equiv="X-UA-Compatible" content = "ie=edge">
+        <title> Keat </title>
+    </head>
+    <style>
+   #sec_1{}
+   #sec_1{width: 100%; height: 520px; background: #d3d3d3;}
+   #sec_1 .Menu{padding: 40px 0; width:1180px; margin: 0 auto; }
+   #sec_1 .Menu img{display: inline; border-radius: 20px;}
+   #sec_1 .Menu h1{float: right; display: inline-block; padding: 10px 0 0 0; box-sizing: border-box; width: 550px; height: 400px;}
+
+    </style>
+    <body>
+    </body>
+</html>

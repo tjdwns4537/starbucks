@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width = device-width, initial-scale = 1.0">
+        <meta http-equiv="X-UA-Compatible" content = "ie=edge">
+        <title> Keat </title>
+
+<style>
+@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic&display=swap');
+*{padding: 0; margin: 0; !outline: 0;}
+p,a,title,link,content,h1,h2,h3,h4,h5,h6,nav,ul,li,div,header,main,body,head,html{padding: 0; margin: 0;}
+a{text-decoration: none; color: #000;}
+li{list-style: none;}
+img{display: inline-block;}
+.clear{clear: both;}
+.hide{position: absolute; left: -5000%;}
+body{font-family: 'Nanum Gothic', sans-serif;}
+header{text-align: center; height: 80px; line-height: 80px; text-align: center; border-bottom: 1px solid #cbcbcb;}
+header div{display: inline-block; margin: 0 auto;}
+header h1{display: inline-block; padding: 0 50px 0 50px ; font-size: 25px; text-align: center; box-sizing: border-box;}
+header ul {display: inline-block; box-sizing: border-box; transform:translate(0,-5%);}
+header li{display: inline-block; margin: 0 50px;}
+header li a{font-weight: 700;}
+
+/*헤더*/
+main{text-align: center;}
+main>div{display: inline-block; margin: 2px auto; width: 1180px;background: rgba(196, 197, 203, 0.36);}
+main>div>h1{padding: 10px 0 10px 10px; float: left; height: 520px; background: rgba(196, 197, 203, 0.36); box-sizing: border-box; }
+main>div>h1>img,
+main>div>h2>img{width: 550px; height: 500px;}
+main>div>h1>img{border-top-left-radius: 20px; border-bottom-left-radius: 20px;}
+main>div>h2>img{border-top-right-radius: 20px; border-bottom-right-radius: 20px;}
+main>div>h2{padding: 10px 10px 10px 0; float: right; height: 520px; background: rgba(196, 197, 203, 0.36); box-sizing: border-box;}
+main>div>h3{position: absolute; top: 50%; left: 50%; transform: translate(-50%,-50%); width: 500px; height: 200px; padding: 40px 0; box-sizing: border-box; font-size: 40px; color: rgba(36, 10, 8, 0.82); background: rgba(209, 209, 209, 0.48); border-radius: 20px;}
+main>div>h3>span{display: block; padding: 20px; box-sizing: border-box; font-size: 20px; line-height: 30px; color: #2e2d2d;}
+
+/*메인사진*/
+
+footer{height: 120px; padding: 20px 0; box-sizing: border-box; text-align: center; background: rgba(211, 210, 210, 0.32); }
+footer>div{display: inline-block; width: 1180px; margin: 0 auto; color: #606060; text-align: left;}
+footer>div>h6{ font-size: 14px; color: #909090; line-height: 20px;}
+footer>div>h6>span{color:#606060 }
+
+
+
+
+
+/*하단부분*/
+</style>
+    </head>
+    <body>
+        
+    </body>
+</html>

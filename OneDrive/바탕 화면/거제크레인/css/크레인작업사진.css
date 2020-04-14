@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width = device-width, initial-scale = 1.0">
+        <meta http-equiv="X-UA-Compatible" content = "ie=edge">
+        <title> Keat </title>
+    </head>
+<style>
+#photo{}
+#photo {width: 100%; background: #d8d8d8; text-align: center;}
+#photo h1{position: relative; padding: 30px 0; font-size: 30px;}
+#photo h1:after{content: ""; position: absolute; bottom: 15px; left: 50%; transform: translateX(-50%); width: 120px; height: 2px; background: #000;}
+#photo ul{width: 1180px; margin: 0 auto;}
+#photo ul li{display: inline-block; margin: 30px 30px;;}
+#photo ul li p{font-size: 20px; }
+#photo ul>li>img{margin: 0 0 40px 0; width: 500px; height: 500px;}
+</style>
+    
+    <body>
+        
+    </body>
+</html>
