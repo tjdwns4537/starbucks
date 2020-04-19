@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width = device-width, initial-scale = 1.0">
+        <meta http-equiv="X-UA-Compatible" content = "ie=edge">
+        <title> 스벅css </title>
+
+    </head>
+<style>
+html{font-size: 20px;}
+body{font-size: 1rem;}
+header>div{width: 100%; margin: 0;}
+header>div>h1{padding: 1.1rem 0 1.2rem 1rem;}
+
+
+
+</style>    
+    <body>
+        
+    </body>
+</html>
